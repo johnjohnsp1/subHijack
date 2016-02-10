@@ -35,6 +35,11 @@ vavkamil@localhost:~/Documents/perl/subHijack$
 
 #### TODO
 
-1) xexexe
+1) Clean and comment code
 
-2) xexexe
+2) Add output support (.txt, .xml, ...)
+
+3) Add input support for Fierce.pl (Fierce::Parser)
+http://search.cpan.org/~jabra/Fierce-Parser-0.08/lib/Fierce/Parser.pod
+
+4) Add silent and verbose mode
