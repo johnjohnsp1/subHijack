@@ -1,6 +1,8 @@
 # subHijack
 Hijacking forgotten &amp; misconfigured subdomains
 
+#### Description
+
 http://www.xexexe.cz/2016/02/hijacking-forgotten-misconfigured.html
 
 #### Example
